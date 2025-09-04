@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Nikita 👋
+🌩️ AWS Cloud | 🚀 Aspiring Cloud Security Specialist | ⚡ DevOps Enthusiast  
 
-<!--
-**NikitaChougule1/NikitaChougule1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Skills
+- AWS (EC2, S3, Lambda, Step Functions, Glue, Athena, CloudWatch)
+- DevOps: Terraform, GitHub Actions  
 
-Here are some ideas to get you started:
+## 📂 Projects
+- **Terraform EC2 Deployment** → [Repo Link](https://github.com/yourusername/terraform-ec2)
+- **AWS Lambda + S3 Automation** → [Repo Link](https://github.com/yourusername/aws-lambda-s3)
+- **Athena SQL Queries Portfolio** → [Repo Link](https://github.com/yourusername/athena-sql)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Current Focus
+Preparing for **AWS Certified Security – Specialty** (Target: Oct 2025)
+
+## 📫 Connect with me
+- LinkedIn: [www.linkedin.com/in/nikita-chougule-629128121)
+- Email: karavnikita@gmail.com
