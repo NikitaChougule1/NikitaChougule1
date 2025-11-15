@@ -1,4 +1,5 @@
 # Hi, I'm Nikita 👋
+amazonwebservices logo
 🌩️ AWS Cloud | 🚀 Aspiring Cloud Security Specialist | ⚡ DevOps Enthusiast  
 
 ## 🚀 Skills
