@@ -1,5 +1,6 @@
 # Hi, I'm Nikita 👋
-amazonwebservices logo
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/8e613193-ff76-4041-9557-8e2b093123a5" />
+
 🌩️ AWS Cloud | 🚀 Aspiring Cloud Security Specialist | ⚡ DevOps Enthusiast  
 
 ## 🚀 Skills
