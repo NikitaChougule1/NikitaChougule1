@@ -1,6 +1,8 @@
 # Hi, I'm Nikita 👋
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/8e613193-ff76-4041-9557-8e2b093123a5" />
 
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/d5a98283-90d1-4b30-a750-6f361e923a03" />
+
 🌩️ AWS Cloud | 🚀 Aspiring Cloud Security Specialist | ⚡ DevOps Enthusiast  
 
 ## 🚀 Skills
