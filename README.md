@@ -3,6 +3,10 @@
 
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/d5a98283-90d1-4b30-a750-6f361e923a03" />
 
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/46c0cc41-b57c-47aa-8533-d78eb9c32e90" />
+
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/2a0f12b3-dd05-48d3-a176-8a9f3b875439" />
+
 🌩️ AWS Cloud | 🚀 Aspiring Cloud Security Specialist | ⚡ DevOps Enthusiast  
 
 ## 🚀 Skills
@@ -15,7 +19,7 @@
 - **Athena SQL Queries Portfolio** → [Repo Link](https://github.com/yourusername/athena-sql)
 
 ## 🎯 Current Focus
-Preparing for **AWS Certified Security – Specialty** (Target: Oct 2025)
+Preparing for **AWS Certified Security – Specialty** 
 
 ## 📫 Connect with me
 - LinkedIn: [www.linkedin.com/in/nikita-chougule-629128121)
