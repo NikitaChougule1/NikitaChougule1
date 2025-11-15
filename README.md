@@ -5,7 +5,7 @@
 
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/46c0cc41-b57c-47aa-8533-d78eb9c32e90" />
 
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/2a0f12b3-dd05-48d3-a176-8a9f3b875439" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/2a0f12b3-dd05-48d3-a176-8a9f3b875439" />
 
 🌩️ AWS Cloud | 🚀 Aspiring Cloud Security Specialist | ⚡ DevOps Enthusiast  
 
